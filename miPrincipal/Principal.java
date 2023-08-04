@@ -19,7 +19,7 @@ public class Principal {
         System.out.print("Introduce el segundo operando:");
         y = consola.nextInt();
 
-        System.out.println(x+"+"+y+"="+c.suma(x, y));
+        System.out.println(x+"+"+y+"="+c.suma(x, y)); 
         
         consola.close();
     }
